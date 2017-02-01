@@ -4,7 +4,12 @@
     "repositoryName": "introspectively.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "introspectively",
+    "description": "making sense of madness"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
